@@ -15,4 +15,5 @@ Functions:
   ufake.surname_p() #Prints fake surname
   ufake.age() #Returns fake age
   ufake.age_p() #Prints fake age
+  There is more and more functions and some easter eggs 🥚 try to find them ;)
   
